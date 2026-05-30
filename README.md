@@ -1,6 +1,6 @@
 # Hi, I'm Isabel
 
-I'm a biomedical research professional with over ten years of experience at the Oregon National Primate Research Center (ONPRC), OHSU, where data management and analysis have been a core and growing part of my work. I recently completed an M.S. in Computational Life Sciences (With Distinction) from Arizona State University and am relocating to New York City to transition into human health research, clinical data management, and clinical genetics.
+I'm a biomedical research professional with over ten years of experience at the Oregon National Primate Research Center (ONPRC), OHSU, where data management and analysis have been a core and growing part of my work. I recently completed an M.S. in Computational Life Sciences from Arizona State University and am relocating to New York City to transition into human health research, clinical data management, and clinical genetics.
 
 I specialize in building reproducible data workflows, managing large-scale longitudinal research databases, and translating complex datasets into clear analytical outputs for diverse stakeholders. I am particularly interested in roles at the intersection of research coordination, clinical data management, and health informatics.
 
