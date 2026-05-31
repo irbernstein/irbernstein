@@ -12,7 +12,7 @@ I specialize in building reproducible data workflows, managing large-scale longi
 
 ## Featured Projects
 
-[**Rearing Conditions & Behavioral Health in Rhesus Macaques**](https://github.com/irbernstein/macaque-rearing-conditions-behavioral-health)  
+[**Rearing Conditions & Behavioral Health in Rhesus Macaques**](https://github.com/irbernstein/macaque-rearing-behavioral-health)  
 Retrospective longitudinal study examining how early social rearing conditions predict adult behavioral health outcomes. Multi-year EHR data pipeline built in R. Manuscript in preparation.
 
 [**Social Housing Demographics Analysis**](https://github.com/irbernstein/rhesus-social-housing-analysis)  
